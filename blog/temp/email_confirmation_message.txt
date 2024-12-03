@@ -1,0 +1,6 @@
+Hello from FinanceFuture!
+
+Please confirm your email address by clicking the link below:
+{{ activate_url }}
+
+Thank you for using our site!

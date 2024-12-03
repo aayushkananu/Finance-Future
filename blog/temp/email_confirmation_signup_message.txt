@@ -1,0 +1,8 @@
+Hi {{ user.get_full_name|default:user.username }},
+
+Thanks for signing up for FinanceFuture! We're excited to have you on board. 
+
+Please confirm your email address by clicking on the link below:
+{{ activate_url }}
+
+Welcome aboard!
